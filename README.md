@@ -2,7 +2,8 @@
 ## Used Technologies 
 * HTML 
 * CSS 
-* JAVASCRIPT 
+* JAVASCRIPT
+  
 ### Screenshot Of Website 
 ![Ekran resmi1](/Commerce1.png)
 ![Ekran resmi2](/Commerce2.png)
